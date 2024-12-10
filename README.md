@@ -1,10 +1,11 @@
 # Infido
-Versione 1.0: versione iniziale.
+- Versione 1.101: fix esportazione
+- Versione 1.0: versione iniziale
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Infido/).
 
 ## Descrizione
-![image](infido.jpg)
+![image](images/infido.jpg)
 
 Il font **Infido** è basato su scansioni del carattere [*Clio* o *Kleopatra*](https://fontsinuse.com/typefaces/89092/clio) disegnato da Wagner & Schmidt (1903 circa) e in Italia indicato come [*Fidia*](https://books.google.it/books?id=QBDdVK3ifTMC&pg=RA2-PA149) (Nebiolo); vennero realizzati anche grassetto e corsivo, non considerati per questo font.
 
